@@ -17,12 +17,18 @@
   
   .subtitle {
     white-space: pre-wrap;
-    font-size: 1.25rem;
-    margin: 0.25rem 0 0 0;
+    font-size: 0.70rem;
+    margin: 0.15rem 0 0 0;
     color: #593884;
     font-style: italic;
   }
   
+  .banner {
+    max-width: 300px;
+    height: 100px;
+    border-radius: 8px;
+  }
+
   @keyframes animate-in {
     from {
       opacity: 0;

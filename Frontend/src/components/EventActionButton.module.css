@@ -1,13 +1,13 @@
 .form {
   background-color: #6233b9;
-  padding: 1rem;
-  width: 20rem;
+  padding: 0.5rem;
+  width: 25rem;
  
 }
 
 .form label {
   display: block;
-  margin-bottom: 0.05rem;
+  margin-bottom: 0.02rem;
   color: #eadbfb;
   font-weight: bold;
 }
